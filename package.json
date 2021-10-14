@@ -12,11 +12,11 @@
     "lintFix": "eslint --ext js,vue . --fix && npmPkgJsonLint . --fix"
   },
   "dependencies": {
-    "@vue/babel-preset-app": "4.5.13",
-    "@vue/cli": "4.5.13",
-    "@vue/cli-plugin-babel": "4.5.13",
-    "@vue/cli-plugin-eslint": "4.5.13",
-    "@vue/cli-service-global": "4.5.13",
+    "@vue/babel-preset-app": "4.5.14",
+    "@vue/cli": "4.5.14",
+    "@vue/cli-plugin-babel": "4.5.14",
+    "@vue/cli-plugin-eslint": "4.5.14",
+    "@vue/cli-service-global": "4.5.14",
     "abi-decoder": "2.4.0",
     "axios": "0.23.0",
     "babel-eslint": "10.1.0",
